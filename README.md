@@ -22,7 +22,7 @@ I'm not just passionate about coding; I have a life outside of the terminal too!
 
 ### 🎯 Current Projects
 
-#### 1. **Distributed Chat System**
+#### 1. **Booster**
 
   <img src="https://cdn.pixabay.com/photo/2014/07/01/15/40/balloon-381334_1280.png" width="400" height="300">
   
@@ -35,10 +35,10 @@ I'm not just passionate about coding; I have a life outside of the terminal too!
     ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
     ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
   
-  - **Repository**: [Github Repo](link-to-the-repository)
-  - **Demo**: [Live Demo](link-to-live-demo-if-available)
+  - **Repository**: [Gitlab Repo](https://gitlab.com/j-m-harrison/booster)
+  - **Demo**: [Live Demo](https://gitlab.com/j-m-harrison/booster)
 
-#### 2. **AI-based Customer Support Dashboard**
+#### 2. **First-Line-of-Defense**
 
   <img src="https://cdn.pixabay.com/photo/2021/09/15/08/13/chatbot-6626193_1280.png" width="400" height="300">
   
@@ -51,10 +51,10 @@ I'm not just passionate about coding; I have a life outside of the terminal too!
     ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
     ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
   
-  - **Repository**: [Github Repo](link-to-the-repository)
-  - **Demo**: [Live Demo](link-to-live-demo-if-available)
+  - **Repository**: [Gitlab Repo](https://gitlab.com/j-m-harrison/covid19-tracker)
+  - **Demo**: [Live Demo](https://covid-19-tracker-b6944.web.app/)
 
-#### 3. **E-commerce Backend API**
+#### 3. **Small Talk**
 
   <img src="https://cdn.pixabay.com/photo/2016/08/20/06/44/e-commerce-1606962_1280.png" width="400" height="300">
   
@@ -67,8 +67,8 @@ I'm not just passionate about coding; I have a life outside of the terminal too!
     ![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=graphql&logoColor=white)
     ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens)
   
-  - **Repository**: [Github Repo](link-to-the-repository)
-  - **Demo**: [API Docs](link-to-API-documentation)
+  - **Repository**: [Gitlab Repo](https://gitlab.com/j-m-harrison/small-talk)
+  - **Demo**: [API](https://tonal-f1490.web.app/)
 
 ---
 
