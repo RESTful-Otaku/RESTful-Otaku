@@ -10,7 +10,7 @@
 
 ### 📚 About Me
 
-I'm a passionate and versatile Software Engineer with a focus on back-end development. My current work tech stack is primarily built around Golang, Rust, TypeScript, and SQL DBs on AWS. I love to explore new technologies and solve complex problems. As such I am often working on side projects in various tech stacks and languages to help refine my skillset. 
+I'm a passionate and versatile Software Engineer with a focus on back-end development. My current work tech stack is primarily built around Golang, Rust, TypeScript, and PostgreSQL on AWS. I love to explore new technologies and solve complex problems. As such I am often working on side projects in various tech stacks and languages to help refine my skillset. 
 
 ---
 
