@@ -208,7 +208,7 @@ I'm not just curious when coding; I have a life outside of the terminal too!
 
 ### 📫 How to Find / Reach Me
 
-- ![Twitter Logo](https://img.shields.io/twitter/url?label=Follow%20%40RESTful_Otaku&style=social&url=https%3A%2F%2Ftwitter.com%2FRESTful_Otaku) [Twitter: @RESTful_Otaku](https://twitter.com/RESTful_Otaku)
+- ![Twitter Logo](https://img.shields.io/twitter/url?label=Follow%20%40RESTful_Otaku&style=social&url=https%3A%2F%2Ftwitter.com%2FRESTful_Otaku)
 - 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jonathan-harrison-restfulotkau/)
 - 🌐 Website: [My Portfolio Site](https://portfolio-site-a770f.web.app/)
 - 📧 Email: [My Email](mailto:j-m-harrison@proton.me)
