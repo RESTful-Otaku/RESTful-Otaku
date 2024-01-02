@@ -10,13 +10,17 @@
 
 ### 📚 About Me
 
-I'm a passionate and versatile Software Engineer with a focus on back-end development. My current work tech stack is primarily built around Golang, Rust, TypeScript, and PostgreSQL on AWS. I love to explore new technologies and solve complex problems. As such I am often working on side projects in various tech stacks and languages to help refine my skillset. 
+I'm a curious and versatile Software Engineer with a focus on back-end and systems development. My current work tech stack is primarily built around Golang, Rust, TypeScript, and PostgreSQL on AWS. I love to explore new technologies and solve complex problems. As such I am often working on side projects, little tools and apps in various tech stacks and languages to help refine my skillset. 
 
 ---
 
 ### 🌱 Personal Stuff
 
-I'm not just passionate about coding; I have a life outside of the terminal too! I'm a snowboarding and skateboarding enthusiast. I enjoy the strategy behind a good game of chess and the melodies of a guitar. I love to travel—most of South East Asia is checked off, and Europe is my next conquest. Currently, I'm diving deep into the Japanese language and culture, enriched by my love for Anime and Manga.
+I'm not just curious when coding; I have a life outside of the terminal too! 
+* I'm a snowboarding and skateboarding enthusiast (though my injuries heal slower these days).
+* I enjoy the strategy behind a good game of chess (getting better) and the melodies of a guitar (also getting beter).
+* I love to travel—most of South East Asia needs checking off before I hit 40, and Europe is in my backyard so who know's where I will be year to year.
+* Currently, I'm diving deep into the Japanese language and culture, enriched by my love for Anime and Manga, so I can become だいじょうぶ!
 
 ---
 
@@ -89,7 +93,6 @@ I'm not just passionate about coding; I have a life outside of the terminal too!
     ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
     ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-- **Other**:
     ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
     ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
     ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift)
@@ -197,9 +200,9 @@ I'm not just passionate about coding; I have a life outside of the terminal too!
 
 - 🏂 Snowboarding
 - 🛹 Skateboarding
-- ♟️ Chess
+- ♟️♟️ Chess
 - 🎸 Guitar
-- 🌏 Travelling (Most of South East Asia conquered, Europe is next!)
+- 🌏 Travelling (Mostly South East Asia and Europe!)
 - 🇯🇵 Learning Japanese Language
 - 📺 Anime & Manga
 
