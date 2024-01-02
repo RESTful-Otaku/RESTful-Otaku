@@ -200,7 +200,7 @@ I'm not just curious when coding; I have a life outside of the terminal too!
 
 - 🏂 Snowboarding
 - 🛹 Skateboarding
-- ♟️♟️ Chess
+- ♟️ Chess
 - 🎸 Guitar
 - 🌏 Travelling (Mostly South East Asia and Europe!)
 - 🇯🇵 Learning Japanese Language
