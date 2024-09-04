@@ -10,7 +10,7 @@
 
 ### 📚 About Me
 
-I'm a curious and versatile Software Engineer with a focus on back-end and systems development. My current work tech stack is primarily built around Golang, Rust, TypeScript, and PostgreSQL on AWS. I love to explore new technologies and solve complex problems. As such I am often working on side projects, little tools and apps in various tech stacks and languages to help refine my skillset. 
+I'm a curious and versatile Software Engineer with a focus on back-end and systems development. My current work tech stack is primarily built around Zig, Rust, Golang, TypeScript, and PostgreSQL/SQlite/TigerbeetleDB on AWS. I love to explore new technologies and solve complex problems. As such I am often working on side projects, little tools and apps in various tech stacks and languages to help refine my skillset. 
 
 ---
 
@@ -91,12 +91,15 @@ I'm not just curious when coding; I have a life outside of the terminal too!
     ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
     ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
     ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+    ![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)
+    ![Odin](https://custom-icon-badges.demolab.com/badge/Odin-1E5184?logo=odinlang)
     ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
     ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
     ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
     ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift)
     ![Objective-C](https://img.shields.io/badge/-Objective--C-43853D?style=flat-square)
+    ![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)
 
 #### Libraries & Frameworks
 
@@ -133,6 +136,7 @@ I'm not just curious when coding; I have a life outside of the terminal too!
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
   ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
   ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
   ![BitBucket Pipelines](https://img.shields.io/badge/-BitBucket%20Pipelines-0052CC?style=flat-square&logo=bitbucket)
@@ -146,9 +150,15 @@ I'm not just curious when coding; I have a life outside of the terminal too!
 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+  ![TigerbeetleDB](https://img.shields.io/badge/-TigerbeetleDB-003B57?style=flat-square&logo=tigerbeetle)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+  ![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)
+  ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+  ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)
 
 #### API Development & Testing
 
@@ -174,11 +184,15 @@ I'm not just curious when coding; I have a life outside of the terminal too!
   ![Volta](https://img.shields.io/badge/-Volta-58575D?style=flat-square)
   ![Cargo](https://img.shields.io/badge/-Cargo-000000?style=flat-square&logo=cargo)
   ![Go Modules](https://img.shields.io/badge/-Go%20Modules-00ADD8?style=flat-square&logo=go&logoColor=white)
+  ![Zig Build](https://img.shields.io/badge/-zig-000000?style=flat-square&logo=zig)
+  ![GCC](https://img.shields.io/badge/-gcc-000000?style=flat-square&logo=gcc)
+  ![Clang](https://img.shields.io/badge/-Clang-000000?style=flat-square&logo=clang)
 
 #### IDEs
 
   ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
   ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
@@ -209,8 +223,8 @@ I'm not just curious when coding; I have a life outside of the terminal too!
 ### 📫 How to Find / Reach Me
 
 - ![Twitter Logo](https://img.shields.io/twitter/url?label=Follow%20%40RESTful_Otaku&style=social&url=https%3A%2F%2Ftwitter.com%2FRESTful_Otaku)
-- 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jonathan-harrison-restfulotkau/)
-- 🌐 Website: [My Portfolio Site](https://portfolio-site-a770f.web.app/)
+- 🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff) [My LinkedIn](https://www.linkedin.com/in/jonathan-harrison-restfulotkau/)
+- 🌐 ![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) (https://portfolio-site-a770f.web.app/)
 - 📧 Email: [My Email](mailto:j-m-harrison@proton.me)
 
 ---
