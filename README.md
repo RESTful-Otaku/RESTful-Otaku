@@ -224,7 +224,7 @@ I'm not just curious when coding; I have a life outside of the terminal too!
 
 - ![Twitter Logo](https://img.shields.io/twitter/url?label=Follow%20%40RESTful_Otaku&style=social&url=https%3A%2F%2Ftwitter.com%2FRESTful_Otaku)
 - 🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff) [My LinkedIn](https://www.linkedin.com/in/jonathan-harrison-restfulotkau/)
-- 🌐 ![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) (https://portfolio-site-a770f.web.app/)
+- 🌐 ![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg) [Portfolio](https://portfolio-site-a770f.web.app/)
 - 📧 Email: [My Email](mailto:j-m-harrison@proton.me)
 
 ---
